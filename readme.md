@@ -241,6 +241,8 @@ Source control is not a secure place to store secrets such as credentials, API k
 - [Repo-supervisor](https://github.com/auth0/repo-supervisor) - _Auth0_ - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
 - [SpectralOps](https://spectralops.io) - _Spectral_ - Automated code security, secrets, tokens and sensitive data scanning.
 - [truffleHog](https://github.com/trufflesecurity/truffleHog) - _Truffle Security_ - Searches through git repositories for secrets, digging deep into commit history and branches.
+- [GitHound Explore](https://githoundexplore.com/) - _GitHound_ - Web-based platform for monitoring and hunting external secret leaks.
+
 
 ### Static Analysis
 
