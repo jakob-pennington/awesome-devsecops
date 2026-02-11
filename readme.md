@@ -108,6 +108,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Semgrep Academy](https://academy.semgrep.dev/) - _Semgrep_ - Free, on-demand courses covering topics including API security, secure coding and application security.  
 - [Web Security Academy](https://portswigger.net/web-security) - _PortSwigger_ - A set of materials and labs to learn and exploit common web vulnerabilities.
 - [WeHackPuple](https://wehackpurple.com/) - _WeHackPurple_ - Online courses that teach application security theory and hands-on technical lessons.
+- [8kSec Academy](https://academy.8ksec.io) - _8kSec Academy_ - Online courses that teach mobile and AI security, including iOS/Android app testing, reverse engineering, jailbreak techniques, LLM threat analysis, prompt-injection attacks, and securing real-world AI systems.
 
 ### Wikis
 
