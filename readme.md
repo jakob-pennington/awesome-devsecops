@@ -129,7 +129,7 @@ Open source software packages can speed up the development process by allowing d
 - [Renovate](https://renovate.whitesourcesoftware.com/) - _WhiteSource_ - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
 - [Requires.io](https://requires.io/) - _Olivier Mansion & Alexis Tabary_ - Automated vulnerable dependency monitoring and upgrades for Python projects.
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
-- [ReleaseRun](https://releaserun.com/badges/) - _ReleaseRun_ - Embeddable badges showing CVE counts, EOL status, and version health for 300+ software products.
+- [ReleaseRun](https://releaserun.com/tools/vulnerability-scanner/) - _ReleaseRun_ - Free dependency vulnerability scanner checking CVE exposure and end-of-life status across 300+ software products, with an npm CLI for CI/CD integration.
 
 ### Dynamic Analysis
 
