@@ -156,6 +156,7 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 <!-- omit in toc -->
 #### Cloud Formation
 - [Cfn Nag](https://github.com/stelligent/cfn_nag) - _Stelligent_ - Scan AWS CloudFormation templates for insecure configuration.
+- [CloudSecure](https://github.com/carlosinfantes/cloudsecure) - _UNICC_ - Open-source AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning. Built serverless with CDK, Lambda, and Step Functions.
 
 <!-- omit in toc -->
 #### Containers
