@@ -137,6 +137,7 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 - [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) - _Imperva_ - Perform automated security scanning against an API based on an API specification.
 - [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) - _PortSwigger_ - BurpSuite's web application vulnerability scanner used widely by penetration testers, modified with CI/CD integration and continuous monitoring over multiple web applications.
 - [Gauntlt](https://github.com/gauntlt/gauntlt) - _Gauntlt_ - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
+- [KENSAI](https://kensai.app) - _AiHackers_ - AI-powered autonomous penetration testing platform with 29 integrated security tools, a 332K+ CVE database, and NIS2/DORA compliance reporting.
 - [Netz](https://github.com/spectralops/netz) - _Spectral_ - Discover internet-wide misconfigurations, using zgrab2 and others.
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - _Microsoft_ - A stateful RESTful API scanner based on peer-reviewed research papers.
 - [SSL Labs Scan](https://github.com/ssllabs/ssllabs-scan) - _SSL Labs_ - Automated scanning for SSL / TLS configuration issues.
