@@ -238,6 +238,7 @@ Source control is not a secure place to store secrets such as credentials, API k
 - [Gitleaks](https://github.com/zricethezav/gitleaks) - _Zachary Rice_ - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.
 - [git-secrets](https://github.com/awslabs/git-secrets) - _AWS Labs_ - Scans commits, commit messages and merges for secrets. Native support for AWS secret patterns, but can be configured to support other patterns.
 - [Nightfall](https://nightfall.ai/solutions/product/github) - _Nightfall_ - A web-based platform that monitors for sensitive data disclosure across several SDLC tools, including GitHub repositories.
+- [PII-Shield](https://github.com/aragossa/pii-shield) - _Aragossa_ - Zero-code Kubernetes sidecar for log sanitization. Detects and masks secrets before they leave the pod.
 - [Repo-supervisor](https://github.com/auth0/repo-supervisor) - _Auth0_ - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
 - [SpectralOps](https://spectralops.io) - _Spectral_ - Automated code security, secrets, tokens and sensitive data scanning.
 - [truffleHog](https://github.com/trufflesecurity/truffleHog) - _Truffle Security_ - Searches through git repositories for secrets, digging deep into commit history and branches.
