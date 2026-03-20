@@ -45,7 +45,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Articles
 
 - [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) - _Pager Duty_ - Guidelines to running security training within an organisation.
-- [DevSecOps: Making Security Central To Your DevOps Pipeline](https://spacelift.io/blog/what-is-devsecops) - _Spacelift_ - An article explains what DevSecOps aims to achieve, why it’s advantageous, and how the DevSecOps lifecycle looks.
+- [DevSecOps: Making Security Central To Your DevOps Pipeline](https://spacelift.io/blog/what-is-devsecops) - _Spacelift_ - An article explains what DevSecOps aims to achieve, why it's advantageous, and how the DevSecOps lifecycle looks.
 
 ### Books
 
@@ -318,6 +318,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 
 Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3rd party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.
 
+- [Brood Box](https://github.com/stacklok/brood-box) - _Stacklok_ - CLI tool for running coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization profiles.
 - [Harden Runner GitHub Action](https://github.com/step-security/harden-runner) - _StepSecurity_ - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
 - [Overlay](https://github.com/os-scar/overlay) - _SCAR_ - a browser extension helping developers evaluate open source packages before picking them.
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
