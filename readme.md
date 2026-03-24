@@ -271,6 +271,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 <!-- omit in toc -->
 #### Configuration Files
 - [Conftest](https://github.com/instrumenta/conftest) - _Instrumenta_ - Create custom tests to scan any configuration file for security flaws.
+- [Pegasus](https://github.com/Guipetris/pegasus) - _Pegasus_ - Open-source AI security compliance framework with 12 certification profiles (OWASP, ISO 42001, EU AI Act, NIST) and 96 OPA Rego policies. Evidence-based evaluation with cross-review confidence scoring.
 - [Selefra](https://github.com/selefra/selefra) - _Selefra_ - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 <!-- omit in toc -->
