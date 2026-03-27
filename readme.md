@@ -204,6 +204,7 @@ It's not enough to test and harden our software in the lead up to a release. We 
 
 - [Csper](https://csper.io/report-uri) - _Csper_ - A set of Content Security Policy tools that can test policies, monitor CSP reports and provide metrics and alerts.
 - [Streamdal](https://streamdal.com) - _Streamdal_ - Embed privacy controls in your application code to detect and monitor PII as it enters and leaves your systems, preventing it from reaching unintended databases, data streams, or pipelines.
+- [Agent Audit Log API](https://rapidapi.com/lulzasaur9192/api/agent-audit-log) - _Lulzasaur_ - Structured audit logging API for AI agents, capturing tool calls, decisions, and errors with immutable append-only storage and full-text search.
 
 ### Secrets Management
 
