@@ -116,6 +116,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Tools
 
+- [ReleaseRun](releaserun.com) — ReleaseRun — dependency EOL scanner, CVE dashboard, and release monitoring — free tools for software supply chain health
 ### Dependency Management
 
 Open source software packages can speed up the development process by allowing developers to implement functionality without having to write all of the code. However, with the open source code comes open source vulnerabilities. Dependency management tools help manage vulnerabilities in open source packages by identifying and updating packages with known vulnerabilities.
