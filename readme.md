@@ -204,6 +204,7 @@ It's not enough to test and harden our software in the lead up to a release. We 
 
 - [Csper](https://csper.io/report-uri) - _Csper_ - A set of Content Security Policy tools that can test policies, monitor CSP reports and provide metrics and alerts.
 - [Streamdal](https://streamdal.com) - _Streamdal_ - Embed privacy controls in your application code to detect and monitor PII as it enters and leaves your systems, preventing it from reaching unintended databases, data streams, or pipelines.
+- [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - _Mariusz Gebala_ - Open-source AWS security scanner with attack chain detection and auto-remediation code generation.
 
 ### Secrets Management
 
