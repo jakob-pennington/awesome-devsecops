@@ -42,6 +42,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Resources
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security scanning, vulnerability assessment, and DevSecOps automation orchestration. MIT licensed.
 ### Articles
 
 - [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) - _Pager Duty_ - Guidelines to running security training within an organisation.
