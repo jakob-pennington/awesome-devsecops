@@ -257,6 +257,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 - [SemGrep](https://semgrep.dev/) - _r2c_ - Semgrep is a fast, open-source, static analysis tool that finds bugs and enforces code standards at editor, commit, and CI time.
 - [SonarLint](https://www.sonarlint.org/) - _SonarSource_ - An IDE plugin that highlights potential security security issues, code quality issues and bugs. 
 - [SonarQube](https://www.sonarqube.org/) - _SonarSource_ - Scan code for security and quality issues with support for a wide variety of languages.
+- [asqav](https://github.com/jagmarques/asqav-compliance) - _asqav_ - AI compliance scanner for CI/CD pipelines that detects EU AI Act violations, prompt injection risks, and missing guardrails in AI agent code. Available as a GitHub Action.
 
 <!-- omit in toc -->
 #### C / C++
