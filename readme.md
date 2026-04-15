@@ -44,6 +44,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Articles
 
+- [12 Steps to Secure GitHub Actions After the Trivy Attack](https://haitmg.pl/blog/github-actions-security-after-trivy-attack/) - _HAIT_ - A practical guide to hardening GitHub Actions workflows against supply chain attacks, inspired by the tj-actions/changed-files compromise.
 - [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) - _Pager Duty_ - Guidelines to running security training within an organisation.
 - [DevSecOps: Making Security Central To Your DevOps Pipeline](https://spacelift.io/blog/what-is-devsecops) - _Spacelift_ - An article explains what DevSecOps aims to achieve, why it’s advantageous, and how the DevSecOps lifecycle looks.
 
