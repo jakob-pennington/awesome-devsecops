@@ -140,6 +140,7 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 - [Netz](https://github.com/spectralops/netz) - _Spectral_ - Discover internet-wide misconfigurations, using zgrab2 and others.
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - _Microsoft_ - A stateful RESTful API scanner based on peer-reviewed research papers.
 - [SSL Labs Scan](https://github.com/ssllabs/ssllabs-scan) - _SSL Labs_ - Automated scanning for SSL / TLS configuration issues.
+- [UNPWNED](https://www.unpwned.io) - _UNPWNED_ - Passive web security scanner for AI-built apps and indie SaaS. 700+ checks in under 2 minutes with copy-paste fix prompts for AI coding agents (Cursor, Claude, Copilot).
 - [Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy) - _OWASP_ - An open-source web application vulnerability scanner, including an API for CI/CD integration.
 
 ### Infrastructure as Code Analysis
