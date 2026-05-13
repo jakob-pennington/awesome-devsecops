@@ -318,6 +318,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 
 Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3rd party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.
 
+- [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) - _APort_ - pre-action authorization for AI agent tool calls, with local or hosted policy checks for blocking risky actions in agent-driven development workflows.
 - [Harden Runner GitHub Action](https://github.com/step-security/harden-runner) - _StepSecurity_ - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
 - [Overlay](https://github.com/os-scar/overlay) - _SCAR_ - a browser extension helping developers evaluate open source packages before picking them.
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
