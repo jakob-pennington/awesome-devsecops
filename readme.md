@@ -128,6 +128,7 @@ Open source software packages can speed up the development process by allowing d
 - [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - Vulnerable package auditing for node packages built into the npm CLI.
 - [Renovate](https://renovate.whitesourcesoftware.com/) - _WhiteSource_ - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
 - [Requires.io](https://requires.io/) - _Olivier Mansion & Alexis Tabary_ - Automated vulnerable dependency monitoring and upgrades for Python projects.
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier to quickly pivot from vulnerable dependencies to known exploit code.
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
 
 ### Dynamic Analysis
