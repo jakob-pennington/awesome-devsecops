@@ -122,6 +122,7 @@ Open source software packages can speed up the development process by allowing d
 
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Dependabot](https://dependabot.com/) - _GitHub_ - Automatically scan GitHub repositories for vulnerabilities and create pull requests to merge in patched dependencies.
+- [DepAnalyzer](https://www.depanalyzer.com) - _DepAnalyzer_ - Free open-source dependency vulnerability scanner. Scans full transitive dependency tree for CVEs across npm, PyPI, and Maven. No signup required. Powered by OSV + NVD.
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) - _OWASP_ - Scans dependencies for publicly disclosed vulnerabilities using CLI or build server plugins.
 - [Dependency-Track](https://dependencytrack.org/) - _OWASP_ - Monitor the volume and severity of vulnerable dependencies across multiple projects over time.
 - [JFrog XRay](https://jfrog.com/xray/) - _JFrog_ - Security and compliance analysis for artifacts stored in JFrog Artifactory.
