@@ -271,6 +271,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 <!-- omit in toc -->
 #### Configuration Files
 - [Conftest](https://github.com/instrumenta/conftest) - _Instrumenta_ - Create custom tests to scan any configuration file for security flaws.
+- [heygrc](https://heygrc.com) - _ISMS Copilot_ - A GitHub App that reviews pull requests against your compliance frameworks (ISO 27001, SOC 2, GDPR, EU AI Act, and more) and flags control-relevant changes inline, citing the clause.
 - [Selefra](https://github.com/selefra/selefra) - _Selefra_ - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 <!-- omit in toc -->
