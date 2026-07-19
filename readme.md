@@ -139,6 +139,7 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 - [Gauntlt](https://github.com/gauntlt/gauntlt) - _Gauntlt_ - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
 - [Netz](https://github.com/spectralops/netz) - _Spectral_ - Discover internet-wide misconfigurations, using zgrab2 and others.
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - _Microsoft_ - A stateful RESTful API scanner based on peer-reviewed research papers.
+- [squirrelscan](https://github.com/squirrelscan/squirrelscan) - _squirrelscan_ - CLI website auditor for coding agents that crawls a running site and scans for security misconfigurations (missing security headers, weak CSP, mixed content, insecure cookie flags, TLS issues) alongside SEO, performance and accessibility, returning exact source-mapped fixes. Runs in CI or over MCP.
 - [SSL Labs Scan](https://github.com/ssllabs/ssllabs-scan) - _SSL Labs_ - Automated scanning for SSL / TLS configuration issues.
 - [Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy) - _OWASP_ - An open-source web application vulnerability scanner, including an API for CI/CD integration.
 
