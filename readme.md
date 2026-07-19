@@ -339,6 +339,7 @@ Threat modelling is an engineering exercise that aims to identify threats, vulne
 
 ## Related Lists
 
+- [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - Security-posture-first list of sandboxes for running AI coding agents' code, ranked by isolation, egress control and secrets handling.
 - [Awesome Dynamic Analysis](https://github.com/analysis-tools-dev/dynamic-analysis/) - _Matthias Endler_ - A collection of dynamic analysis tools and code quality checkers.
 - [Awesome Platform Engineering](https://github.com/shospodarets/awesome-platform-engineering/) - A curated list of solutions, tools and resources for _Platform Engineering_
 - [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis/) - _Matthias Endler_ - A collection of static analysis tools and code quality checkers.
