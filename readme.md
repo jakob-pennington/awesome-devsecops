@@ -233,6 +233,7 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 Source control is not a secure place to store secrets such as credentials, API keys or tokens, even if the repo is private. Secrets scanning tools can scan and monitor git repositories and pull-requests for secrets, and can be used to prevent secrets from being committed, or to find and remove secrets that have already been committed to source control.
 
 - [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) - _Microsoft_ - A credential scanning tool that can be run as a task in Azure DevOps pipelines.
+- [ContextDuty](https://github.com/SHUBHAGYTA24/contextduty) - _ContextDuty_ - Local-first prompt firewall that runs as a git pre-commit hook to block secrets and PII before they're committed — and also stops them reaching AI tools (IDE, AI-API proxy, MCP). Built on Microsoft Presidio.
 - [Detect Secrets](https://github.com/Yelp/detect-secrets) - _Yelp_ - An aptly named module for (surprise, surprise) detecting secrets within a code base.
 - [GitGuardian](https://www.gitguardian.com/) - _GitGuardian_ - A web-based solution that scans and monitors public and private git repositories for secrets.
 - [Gitleaks](https://github.com/zricethezav/gitleaks) - _Zachary Rice_ - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.
