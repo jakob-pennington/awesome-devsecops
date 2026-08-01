@@ -129,6 +129,7 @@ Open source software packages can speed up the development process by allowing d
 - [Renovate](https://renovate.whitesourcesoftware.com/) - _WhiteSource_ - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
 - [Requires.io](https://requires.io/) - _Olivier Mansion & Alexis Tabary_ - Automated vulnerable dependency monitoring and upgrades for Python projects.
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
+- [VulnReach](https://github.com/OWASP/VulnReach/) - _OWASP_ - Runtime-aware SCA that classifies each detected CVE as dynamically reachable, statically reachable, uncertain, or not reachable, combining static taint tracking, call-graph analysis, and live runtime coverage to surface only the dependency vulnerabilities that are actually exploitable.
 
 ### Dynamic Analysis
 
