@@ -257,6 +257,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 - [SemGrep](https://semgrep.dev/) - _r2c_ - Semgrep is a fast, open-source, static analysis tool that finds bugs and enforces code standards at editor, commit, and CI time.
 - [SonarLint](https://www.sonarlint.org/) - _SonarSource_ - An IDE plugin that highlights potential security security issues, code quality issues and bugs. 
 - [SonarQube](https://www.sonarqube.org/) - _SonarSource_ - Scan code for security and quality issues with support for a wide variety of languages.
+- [Zennoxa Shield](https://github.com/Zennoxa/shield) - _Zennoxa_ - Free, MIT-licensed CLI that scans a codebase for SAST, secret, dependency, container and IaC issues in a single offline pass, with no account required.
 
 <!-- omit in toc -->
 #### C / C++
