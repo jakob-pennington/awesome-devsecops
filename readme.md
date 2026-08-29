@@ -107,6 +107,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) - _Pager Duty_ - A presentation created and open-sourced by PagerDuty to provide security training employees.
 - [Semgrep Academy](https://academy.semgrep.dev/) - _Semgrep_ - Free, on-demand courses covering topics including API security, secure coding and application security.  
 - [Web Security Academy](https://portswigger.net/web-security) - _PortSwigger_ - A set of materials and labs to learn and exploit common web vulnerabilities.
+- [RansomLeak - Interactive application security training](https://ransomleak.com/catalogue/application-security/)
 - [WeHackPuple](https://wehackpurple.com/) - _WeHackPurple_ - Online courses that teach application security theory and hands-on technical lessons.
 
 ### Wikis
