@@ -116,6 +116,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Tools
 
+### Compliance as Code
+
+- [Cloud Security Audit Scripts](https://github.com/TrazTech-Inc/cloud-security-audit-scripts) - _TrazTech_ - Open-source pre-audit cloud security assessment scripts for AWS, GCP, and Azure with SOC 2 control mappings.
+- [Startup Security Policies](https://github.com/TrazTech-Inc/startup-security-policies) - _TrazTech_ - Security policy templates mapped to SOC 2 and ISO 27001 controls.
+
 ### Dependency Management
 
 Open source software packages can speed up the development process by allowing developers to implement functionality without having to write all of the code. However, with the open source code comes open source vulnerabilities. Dependency management tools help manage vulnerabilities in open source packages by identifying and updating packages with known vulnerabilities.
