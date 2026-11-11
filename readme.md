@@ -329,6 +329,7 @@ Supply chain attacks come in different forms, targeting parts of the SDLC that a
 Threat modelling is an engineering exercise that aims to identify threats, vulnerabilities and attack vectors that represent a risk to something of value.  Based on this understanding of threats, we can design, implement and validate security controls to mitigate threats. The following list of tools assist the threat modelling process.
 
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) - _Practical DevSecOps_ - A curated list of threat modelling resources.
+- [GuardLink](https://github.com/Bugb-Technologies/guardlink) - _Bugb Technologies_ - Open-source threat modelling as code that keeps up with development: annotations in source comments form the model, CI validates it, AI coding agents maintain it over MCP, and open exposures become test templates so they can be proven.
 - [SecuriCAD](https://www.foreseeti.com/) - _Forseeti_ - Treat modelling and attack simulations for IT infrastructure.
 - [IriusRisk](https://iriusrisk.com/) - _IriusRisk_ - Draw threat models and capture threats and countermeasures and manage risk.
 - [Raindance Project](https://github.com/devsecops/raindance) - _DevSecOps_ - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
